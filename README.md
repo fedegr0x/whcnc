@@ -15,9 +15,12 @@ But we know for sure some things.
 * there no point in producing low tier units (unless you need quest completion)
 * to defeate an army without losses you need more than 10x power
 * save your better units for aliance fights. if they die on army marches you are doing it wrong.
+* You can always use your shield or teleport, even when someone marches on you. Don't take one for the team if you can't handle it! (if you are not sure, you can't handle it!)
 
 ## Aliance tactics
-<TODO>
+* Always have at least one shield
+* Always have at least 2 teleports
+* Use the rest of your coins to get 3hr speed ups. Use those upgrade on your Keep preferably (it is the bottle neck upgrade process usually).
 
 ## Champion
 Champions are very important in terms of game buffs.
