@@ -66,8 +66,8 @@ Some rituals are very important. You should always do rituals at low level just 
 ### Champion
 Champion combat - always get this to max. This is your primary souce of secret ingredients that allow you to up shrines and gear
 ### Defence
-Always up Defence capacity as soon as you don't have enough.
-Defence salvaging always up this because in case of attack you will be able to recover quickly
+* Always up Defence capacity as soon as you don't have enough.
+* Defence salvaging always up this because in case of attack you will be able to recover quickly
 ### Command
 * Encampment ASAP
 * March slot ASAP
@@ -78,8 +78,8 @@ Defence salvaging always up this because in case of attack you will be able to r
 * March capacity is much desirable (you can pack more punch on your marches)
 
 ## Gathering
-Try to get an working camp or war camp on some distant high level territory as far away from othe pips!
+* Try to get an working camp or war camp on some distant high level territory as far away from othe pips!
 High level territies are basically Empires.
-Level 6 nodes are the best to mine, they are the fastest to mine too.
-Try to use as many marches at once as you have. Every march give you gathering speed e.g. 2 marches gather rss 2x faster!
+* Level 6 nodes are the best to mine, they are the fastest to mine too.
+* Try to use as many marches at once as you have. Every march give you gathering speed e.g. 2 marches gather rss 2x faster!
 Use one big march if you can't idle in game.
