@@ -1,7 +1,12 @@
 # Warhammer: Chaos &amp; Conquest definitive guide
+** Join Discord channel ASAP!!! Link in aliance buleting **
 
+## Vocabulary
+* tp - teleport
+* rss - resources
 
 ## General tips
+
 * Enable game push down notifications. Go to game setting notifications. Disable all trash.
 * You should enable notification for at least aliance anouncement and privat messages.
 * Don't waste your warp on shit. I believe at some point you will need it to buy that 2nd queue buffs and some shrine upgrades you can't gather mats for.
