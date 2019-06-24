@@ -1,5 +1,5 @@
 # Warhammer: Chaos &amp; Conquest definitive guide
-** Join Discord channel ASAP!!! Link in aliance buleting **
+__Join Discord channel ASAP!!! Link in aliance buleting__
 
 ## Vocabulary
 * tp - teleport
