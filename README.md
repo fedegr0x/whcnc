@@ -29,7 +29,9 @@ Champions are very important in terms of game buffs.
 Max Champ recovery II ASAP. There are several strats to go from here
 * Max stamina via Boundles Stamina II
 * Add appropriate number of attacks to spend your stamina in one march via Flurry of Attacks I
+
 or
+
 * Max Damage
 Max number of attacks is preferred way because attacks give you loot. Making 3 attack with same damage give you better loot than 2.
 Also quests in game require you to *attack* foes of level number of times (you don't actually need to finish em).
