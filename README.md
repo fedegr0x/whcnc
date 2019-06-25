@@ -94,6 +94,13 @@ Some rituals are very important. You should always do rituals at low level just 
 ### Unholly
 * March capacity is much desirable (you can pack more punch on your marches)
 
+## Regs
+
+Refined steel needed for Wall (15)
+Magic scroll needed for Citadel (15)
+Pestilent flesh - kill beast armies lvl4
+Offerings + Vessel + Amulet - kill empier armies lvl4, vanquish foe lvl5+
+
 ## Gathering
 * Try to get an working camp or war camp on some distant high level territory as far away from othe pips!
 High level territies are basically Empires.
