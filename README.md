@@ -17,11 +17,13 @@ __Join Discord channel ASAP!!! Link in aliance buleting__
 ## Combat
 We don't really know how game mechanics work for this game. How do these attack and defence numbers come together.
 But we know for sure some things.
-* high tier units own, get them ASAP
-* there no point in producing low tier units (unless you need quest completion)
-* to defeate an army without losses you need more than 10x power
-* save your better units for aliance fights. if they die on army marches you are doing it wrong.
+* High tier units own, get them ASAP
+* There no point in producing low tier units (unless you need quest completion)
+* To defeate an army without losses you need more than 10x power
+* Save your better units for aliance fights. if they die on army marches you are doing it wrong.
 * You can always use your shield or teleport, even when someone marches on you. Don't take one for the team if you can't handle it! (if you are not sure, you can't handle it!)
+* When you have aproximately 10x more power you can overpower an army. Your trops die in small numbers.
+* If you put some small number of t1 units in a march they appear to die first. Instead of your valuable Bloodletters.
 
 ## Aliance tactics
 * Always have at least one shield
@@ -52,7 +54,7 @@ Constuction is everything in this game... it gives you focus, makes you stronger
 
 You should be always upgrading your Keep!
 
-If not upgrading your keep you should be upgrading Keep prerequisits only
+If not upgrading your keep you should be upgrading Keep prerequisits!
 
 <TODO cause can't see what keep depends atm>
 * Wall
