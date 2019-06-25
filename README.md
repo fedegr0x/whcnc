@@ -4,6 +4,7 @@ __Join Discord channel ASAP!!! Link in aliance buleting__
 ## Vocabulary
 * tp - teleport
 * rss - resources
+* ASAP - as soon as possible
 
 ## General tips
 
@@ -16,7 +17,7 @@ __Join Discord channel ASAP!!! Link in aliance buleting__
 ## Combat
 We don't really know how game mechanics work for this game. How do these attack and defence numbers come together.
 But we know for sure some things.
-* high tier units own, get them asap
+* high tier units own, get them ASAP
 * there no point in producing low tier units (unless you need quest completion)
 * to defeate an army without losses you need more than 10x power
 * save your better units for aliance fights. if they die on army marches you are doing it wrong.
@@ -72,7 +73,7 @@ If not upgrading your keep you should be upgrading Keep prerequisits only
 ## Rituals
 Some rituals are very important. You should always do rituals at low level just because they give some buffs for little time (effeciency).
 ### Military
-* T3 troops ASAP (this is the priority above all else)
+* T3 troops ASAP (this is top priority!)
 ### Champion
 * Champion combat - always get this to max. This is your primary souce of secret ingredients that allow you to up shrines and gear
 ### Defence
