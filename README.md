@@ -62,9 +62,9 @@ If not upgrading your keep you should be upgrading Keep prerequisits!
 * Citadel
   * Furnace
 * Hellcanon
- * Workshop
-   * Bestiary
-     * Mill
+  * Workshop
+    * Bestiary
+      * Mill
 * Dungeon
   * Grounds
     * Pens
