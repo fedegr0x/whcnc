@@ -5,6 +5,7 @@ __Join Discord channel ASAP!!! Link in aliance buleting__
 * tp - teleport
 * rss - resources
 * ASAP - as soon as possible
+* T$ - tier $ units
 
 ## General tips
 
@@ -23,19 +24,19 @@ But we know for sure some things.
 * Save your better units for aliance fights. if they die on army marches you are doing it wrong.
 * You can always use your shield or teleport, even when someone marches on you. Don't take one for the team if you can't handle it! (if you are not sure, you can't handle it!)
 * When you have aproximately 10x more power you can overpower an army. Your trops die in small numbers.
-* If you put some small number of t1 units in a march they appear to die first. Instead of your valuable Bloodletters.
+* If you put some small number of T1 units in a march they appear to die first. Instead of your valuable Bloodletters.
 
 ## Aliance tactics
 * Always have at least one shield
-* Always have at least 2 teleports
+* Always have at least two teleports
 * Use the rest of your coins to get 3hr speed ups. Use those upgrade on your Keep preferably (it is the bottle neck upgrade process usually).
 
 ## Champion
 Champions are very important in terms of game buffs.
 ### Champion tree
-* construction and ritual buffs are the most important by far
-* construction give your champ XP, so max construction = faster XP
-* rituals give better buffs overal
+* Construction and ritual buffs are the most important by far
+* Construction give your champ XP, so max construction = faster XP
+* Rituals give better buffs overal
 ### Vanquish tree
 Max Champ recovery II ASAP. There are several strats to go from here
 * Max stamina via Boundles Stamina II
@@ -86,7 +87,7 @@ Some rituals are very important. You should always do rituals at low level just 
 ### Command
 * Encampment ASAP
 * March slot ASAP
-* Aliance Help - max this as much as you can spare time
+* Aliance Help - max this as much as you can spare time.
 ### Battle
 ### Daemonic
 ### Unholly
