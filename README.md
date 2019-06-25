@@ -41,6 +41,7 @@ Max Champ recovery II ASAP. There are several strats to go from here
 or
 
 * Max Damage
+
 Max number of attacks is preferred way because attacks give you loot. Making 3 attack with same damage give you better loot than 2.
 Also quests in game require you to *attack* foes of level number of times (you don't actually need to finish em).
 Finishing off enemy is always preferred so look for targets you can finish up on a march.
@@ -71,8 +72,9 @@ If not upgrading your keep you should be upgrading Keep prerequisits only
 ## Rituals
 Some rituals are very important. You should always do rituals at low level just because they give some buffs for little time (effeciency).
 ### Military
+* T3 troops ASAP (this is the priority above all else)
 ### Champion
-Champion combat - always get this to max. This is your primary souce of secret ingredients that allow you to up shrines and gear
+* Champion combat - always get this to max. This is your primary souce of secret ingredients that allow you to up shrines and gear
 ### Defence
 * Always up Defence capacity as soon as you don't have enough.
 * Defence salvaging always up this because in case of attack you will be able to recover quickly
