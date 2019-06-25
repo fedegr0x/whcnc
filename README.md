@@ -66,6 +66,7 @@ If not upgrading your keep you should be upgrading Keep prerequisits!
     * Mill
 * Dungeon
   * Grounds
+    * Pens
 * Hole
   * Post
     * Warehouse
