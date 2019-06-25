@@ -57,9 +57,10 @@ You should be always upgrading your Keep!
 
 If not upgrading your keep you should be upgrading Keep prerequisits!
 
-<TODO cause can't see what keep depends atm>
-* Wall
-  * Quarry
+* Keep
+  * Rift (at 15)
+  * Wall
+    * Quarry
 * Citadel
   * Furnace
 * Hellcanon
