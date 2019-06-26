@@ -109,3 +109,4 @@ High level territies are basically Empires.
 * Level 6 nodes are the best to mine, they are the fastest to mine too.
 * Try to use as many marches at once as you have. Every march give you gathering speed e.g. 2 marches gather rss 2x faster!
 Use one big march if you can't idle in game.
+* Rss buildings give so little income compared to gathering that there's very little point in upgrading. Except for pits. They are needed to offset your troops upkeep, so I suggest you make more of them than other structures.
