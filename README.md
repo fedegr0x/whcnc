@@ -27,8 +27,8 @@ But we know for sure some things.
 * If you put some small number of T1 units in a march they appear to die first. Instead of your valuable Bloodletters.
 
 ## Aliance tactics
-* Always have at least one shield
-* Always have at least two teleports
+* Always have at least 1 shield
+* Always have at least 2 teleports
 * Use the rest of your coins to get 3hr speed ups. Use those upgrade on your Keep preferably (it is the bottle neck upgrade process usually).
 
 ## Champion
@@ -96,10 +96,12 @@ Some rituals are very important. You should always do rituals at low level just 
 
 ## Regs
 
-* Refined steel needed for Wall (15)
-* Magic scroll needed for Citadel (15)
-* Pestilent flesh - kill beast armies lvl4
-* Offerings + Vessel + Amulet - kill empier armies lvl4, vanquish foe lvl5+
+* Refined steel needed for Wall 15+
+* Magic scroll needed for Citadel 15+
+* Moot leather need for Workshop 15+
+* Defiled bones need for Hellcanon 15+
+* Pestilent flesh - kill beast armies 4
+* Offerings + Vessel + Amulet - kill empier armies 4, vanquish foe 5+
 
 ## Gathering
 * Try to get an working camp or war camp on some distant high level territory as far away from othe pips!
