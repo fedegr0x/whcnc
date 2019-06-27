@@ -96,13 +96,16 @@ Some rituals are very important. You should always do rituals at low level just 
 
 ## Regs
 
-* Screams needed for Rift 15+
-* Refined steel needed for Wall 15+
-* Magic scroll needed for Citadel 15+
-* Moot leather need for Workshop 15+
-* Defiled bones need for Hellcanon 15+
-* Pestilent flesh need for Nurgle - kill beast armies 4
-* Offerings for Khorne + Vessel for Tzeentch + Amulet for Slaanesh - kill empier armies 4, vanquish foe 5+
+* Chaos Rift needs Bound Screams
+* War council needs Captured Plans
+* Chaos Warshrine needs Infernal Grimoire
+* HellCannon Emplacements need Defiled Bones
+* Workshop needs Moot Leather
+* Sorcerers Citadel needs Fell Magic Scrolls 
+* Fortress Walls need Refined Steel
+* Daemonic Forge needs Blood Of The Fallen
+* Pestilent flesh Nurgle - kill beast armies 4
+* Offerings Khorne + Vessel Tzeentch + Amulet Slaanesh - kill empier armies 4, vanquish foe 5+
 
 ## Gathering
 * Try to get an working camp or war camp on some distant high level territory as far away from othe pips!
