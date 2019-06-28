@@ -104,6 +104,7 @@ Some rituals are very important. You should always do rituals at low level just 
 * Sorcerers Citadel needs Fell Magic Scrolls 
 * Fortress Walls need Refined Steel
 * Daemonic Forge needs Blood Of The Fallen
+* You can buy a pile of regs for just 20 warp! You actually need just 1500 warp (not proven by actuall buy) to up all 3 gods (except Khorne) to progress to other daemons (and rituals tree).
 * Pestilent flesh Nurgle - kill beast armies 4
 * Offerings Khorne + Vessel Tzeentch + Amulet Slaanesh - kill empier armies 4, vanquish foe 5+
 
