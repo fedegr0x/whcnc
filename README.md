@@ -26,6 +26,8 @@ But we know for sure some things.
 * You can always use your shield or teleport, even when someone marches on you. Don't take one for the team if you can't handle it! (if you are not sure, you can't handle it!)
 * When you have aproximately 10x more power you can overpower an army. Your trops die in small numbers.
 * If you put some small number of T1 units in a march they appear to die first. Instead of your valuable Bloodletters.
+* If your units defent fortress and get killed they are put in Sawbones and can be revived. So it's preferable for the enemy to attack into you. You get your troops back, they don't.
+* Also if you reinforce a brother and your units get killed they will also return to your Sawbones! So reinforce a bro if you see em getting attacked!
 
 ## Aliance tactics
 * Always have at least 1 shield
