@@ -106,9 +106,9 @@ Some rituals are very important. You should always do rituals at low level just 
 * Sorcerers Citadel needs Fell Magic Scrolls 
 * Fortress Walls need Refined Steel
 * Daemonic Forge needs Blood Of The Fallen
-* You can buy a pile of regs for just 20 warp! You actually need just 1500 warp (not proven by actuall buy) to up all 3 gods (except Khorne) to progress to other daemons (and rituals tree).
 * Pestilent flesh Nurgle - kill beast armies 4
 * Offerings Khorne + Vessel Tzeentch + Amulet Slaanesh - kill empier armies 4, vanquish foe 5+
+* Regs are in store 20 warp per 1 unit. So it takes quick a nifty 30000 warp to upgrate you demons if you don't get any drops. Each level increase by 5. Best case you get them from spoils.
 
 ## Gathering
 * Try to get an working camp or war camp on some distant high level territory as far away from othe pips!
