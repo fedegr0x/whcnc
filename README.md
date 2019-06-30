@@ -14,6 +14,7 @@
 * Always do all your trials (even if you don't need rss atm).
 * Take part in challenges (its the goat head). Sometimes they are trivial, but will yield 150-300 warp. This is free money!
 * If there's no food all your troops will die and be taken to sawbones! So I suggest you upgrade your pens. And probably make more of it.
+* Aliance help - basically reduce any training time bellow 8 hours to nothing. So you can have free upgrades as soon as 20 members are online.
 
 ## Combat
 We don't really know how game mechanics work for this game. How do these attack and defence numbers come together.
