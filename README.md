@@ -109,7 +109,7 @@ Some rituals are very important. You should always do rituals at low level just 
 * Daemonic Forge needs Blood Of The Fallen
 * Pestilent flesh Nurgle - kill beast armies 4
 * Offerings Khorne + Vessel Tzeentch + Amulet Slaanesh - kill empier armies 4, vanquish foe 5+
-* Regs are in store 20 warp per 1 unit. So it takes quick a nifty 30000 warp to upgrate you demons if you don't get any drops. Each level increase by 5. Best case you get them from spoils.
+* Regs are in store 20 warp per 1 unit. So it takes quite a nifty 30000 warp to upgrate you demons if you don't get any drops. Each level increase by 5. Best case you get them from spoils.
 
 ## Gathering
 * Try to get an working camp or war camp on some distant high level territory as far away from othe pips!
