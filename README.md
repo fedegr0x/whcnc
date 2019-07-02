@@ -62,6 +62,7 @@ If not upgrading your keep you should be upgrading Keep prerequisits!
 
 * Keep
   * Rift (at 15)
+  * Hole (at 16)
   * Wall
     * Quarry
 * Citadel
@@ -78,6 +79,8 @@ If not upgrading your keep you should be upgrading Keep prerequisits!
     * Warehouse
 * Conclave
   * Sawbones
+* Warshrine
+  * Grounds
 
 ## Rituals
 Some rituals are very important. You should always do rituals at low level just because they give some buffs for little time (effeciency).
